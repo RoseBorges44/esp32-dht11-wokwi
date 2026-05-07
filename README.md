@@ -71,4 +71,5 @@ esp32-dht11-wokwi/
 ## Autora
 
 **Rose Borges** — Pós-graduação em IA Embarcada
+
 **Rodrigo Kobashikawa Rosas** — Professor
