@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = "build/esp32_dht11.bin"
+firmware = "build/flasher_args.json"
 elf = "build/esp32_dht11.elf"
